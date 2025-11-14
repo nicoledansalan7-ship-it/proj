@@ -112,7 +112,7 @@ window.onload = function() {
           <!-- Project 1: Calculator -->
           <h3 class="project-title">Calculator</h3>
           <div class="project-card">
-            <img src="C:\\Users\\Nicole\\Pictures\\Screenshots\\Screenshot 2025-11-14 093139.png" alt="Calculator">
+            <img src="image/calc.png" alt="Calculator">
             <div class="project-desc">
               A simple and interactive JavaScript calculator.
               <a href="https://calc-iota-opal.vercel.app/" target="_blank" class="btn small-btn">Open</a>
@@ -122,7 +122,7 @@ window.onload = function() {
           <!-- Project 2: Login Form -->
           <h3 class="project-title">Login Form</h3>
           <div class="project-card">
-            <img src="C:\\Users\\Nicole\\Downloads\\nikol\\image\\login.png" alt="Login Form">
+            <img src="image/login.png" alt="Login Form">
             <div class="project-desc">
               Interactive login form with basic validation.
               <a href="https://loginn-pi.vercel.app/" target="_blank" class="btn small-btn">Open</a>
@@ -132,7 +132,7 @@ window.onload = function() {
           <!-- Project 3: To-Do List -->
           <h3 class="project-title">To-Do List</h3>
           <div class="project-card">
-            <img src="C:\\Users\\Nicole\\Downloads\\nikol\\image\\list.png" alt="To-Do List">
+            <img src="image/list.png" alt="To-Do List">
             <div class="project-desc">
               Simple task manager to organize daily activities.
               <a href="https://list-seven-iota.vercel.app/" target="_blank" class="btn small-btn">Open</a>
@@ -142,7 +142,7 @@ window.onload = function() {
           <!-- Project 4: Password Generator -->
           <h3 class="project-title">Password Generator</h3>
           <div class="project-card">
-            <img src="C:\\Users\\Nicole\\Pictures\\Screenshots\\Screenshot 2025-11-14 093402.png" alt="Password Generator">
+            <img src="image/pass.png" alt="Password Generator">
             <div class="project-desc">
               Generates strong passwords with custom options.
               <a href="https://pass-gen-azure-nine.vercel.app/" target="_blank" class="btn small-btn">Open</a>
@@ -248,3 +248,4 @@ window.onload = function() {
     });
   });
 };
+
